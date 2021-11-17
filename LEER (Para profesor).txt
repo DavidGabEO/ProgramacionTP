@@ -1,0 +1,10 @@
+Al ser tantos archivos (y que también todavía no manejamos bien git) puede que el programa no compile bien
+En el caso de que no compile, le dejo a disposición dos rar, el primero con los reportes sin integrar
+https://drive.google.com/file/d/1Pj3vs_zQlImKkeO5cTTxK1rGco-VllXM/view?usp=sharing
+
+Y el segundo con los reportes integrados.
+https://drive.google.com/file/d/1ws0Loq2gLJ8LRcbSZ8EooYwN748_ZB3z/view?usp=sharing
+
+
+
+Saludos
